@@ -30,7 +30,7 @@ script.js → Game logic (player turns, win/tie detection, reset).
 
 Clone or download this repository:
 
-git clone https://github.com/Prashanth662/tic-tac-toe.git
+git clone https://github.com/Prashanth662/Tic-Tac-Toe-Game.git
 
 
 Open the index.html file in any modern web browser.
